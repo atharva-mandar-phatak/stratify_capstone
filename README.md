@@ -86,10 +86,6 @@ The models are evaluated using the following metrics:
 - Recall
 - F1 Score
 
-## Results
-
-The best classifier is selected based on the highest ROC-AUC score. The results for each classifier are printed in the console and can also be found in the `results` directory.
-
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or find any issues, please create an issue or submit a pull request.
